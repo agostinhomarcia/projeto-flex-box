@@ -1,4 +1,4 @@
-#### Projeto Landing Page Cliníca de Medicina
+#### Projeto Landing Page Cliníca de Médica
 
 #### Desafio organizar o layaut  com FlexBox
 
